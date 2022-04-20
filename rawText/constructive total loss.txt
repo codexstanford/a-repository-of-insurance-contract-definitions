@@ -1,0 +1,3 @@
+means that at the time of loss or damage of the Car, the cost of repairs exceeds the the difference between the Market Value of the Car at the time of the loss and the estimated salvage value.
+---
+means at the time of loss or damage of the Vehicle, the cost of repairs exceeds the current market value less the salvage value of the Vehicle.

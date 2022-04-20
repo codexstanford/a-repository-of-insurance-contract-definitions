@@ -1,0 +1,5 @@
+Built of brick, stone or concrete, and roofed with slate, tile or concrete pitched roof with standard foundations.
+---
+Built solely of brick, stone or concrete (but not prefabricated walls or panels) and is either flat roofed or roofed with slate, tile, concrete or metal (providing the metal portion of the roof does not exceed 15%).
+---
+Buildings constructed of stone, concrete or brick and roofed with slates, asphalt, metal, concrete or tiles.

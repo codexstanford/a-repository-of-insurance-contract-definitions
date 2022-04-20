@@ -1,0 +1,9 @@
+means the date on which this Group Policy commences as stated in the Policy Schedule.
+---
+The date of first inclusion under this Policy of each Insured Person, as noted on the Policy Schedule.
+---
+means the date on which the coverage under this policy first begins, as specified on the certificate of insurance.
+---
+means the commencement date of insurance, whether at inception or upon renewal, as specified in the period of insurance under this Policy.
+---
+means the date on which this Group Policy commences as stated in the Policy Schedule.

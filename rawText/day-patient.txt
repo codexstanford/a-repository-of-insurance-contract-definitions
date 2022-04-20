@@ -1,0 +1,3 @@
+An Insured Person who is admitted to a Hospital bed but does not stay overnight.
+---
+a patient who is admitted to a hospital or day-patient unit because they need a period of medically supervised recovery but does not occupy a bed overnight.

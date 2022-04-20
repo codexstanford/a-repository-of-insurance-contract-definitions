@@ -1,0 +1,1 @@
+A physical examination with a Physician, including the cost of the Physician’s fee, blood test (red blood count, white blood count, blood sugar, cholesterol, triglyceride, uric acid) and urine test (sugar, protein).

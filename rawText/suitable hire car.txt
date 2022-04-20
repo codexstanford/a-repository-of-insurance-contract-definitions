@@ -1,0 +1,1 @@
+A hire car that takes into account: • the type and size of the damaged vehicle • the ordinary daily uses of the damaged vehicle • whether any additional safety devices were part of the damaged vehicle, such as child seats or disability-related modifications.

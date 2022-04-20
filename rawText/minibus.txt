@@ -1,0 +1,1 @@
+An Insured Vehicle which is a passenger carrying vehicle with more than 8 seats (excluding the driver) but not more than 17 seats (including the driver).

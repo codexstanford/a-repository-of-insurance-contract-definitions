@@ -1,0 +1,3 @@
+Means the address on the Certificate of Insurance.
+---
+The address where the car is normally kept overnight.

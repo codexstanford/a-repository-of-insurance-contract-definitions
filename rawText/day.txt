@@ -1,0 +1,5 @@
+means a period of 24 consecutive hours.
+---
+mean a period of 24 consecutive hours.
+---
+means a period of 24 consecutive hours including the day of admission but excluding the day of discharge.

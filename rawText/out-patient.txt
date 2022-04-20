@@ -1,0 +1,7 @@
+An Insured Person who receives Treatment at a recognised medical facility, but is not admitted to a Hospital bed as an In-Patient or Day-Patient.
+---
+means an insured person who receives medical treatment, including diagnostic services at a hospital, or other medical institution, or at a physician’s office; where the insured person is not admitted or confined to a hospital bed as an in-patient.
+---
+Medical Treatment provided to the Insured Person by or on the recommendation of a Physician which does not involve an admission to Hospital either on an In-Patient or Day-Care basis.
+---
+a patient who attends a hospital, consulting room or out-patient clinic and is not admitted as a Day-patient or an In-patient.

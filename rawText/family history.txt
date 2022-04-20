@@ -1,0 +1,1 @@
+exists where a parent, grandparent, sibling, child, aunt or uncle has been previously diagnosed with the medical condition in question.

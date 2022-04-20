@@ -1,0 +1,3 @@
+Shared accommodation means a room with two or more patient beds in a Network Hospital.
+---
+Shared Accommodation means a hospital room with two or more patient beds. This definition does not apply to ICU or ICCU..

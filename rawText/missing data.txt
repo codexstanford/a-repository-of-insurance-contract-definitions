@@ -1,0 +1,1 @@
+It shall mean the specified weather data for any particular date/period or sub-period which has officially been reported by Authorized weather data provider/s as not having been recorded or having been recorded but is not available.

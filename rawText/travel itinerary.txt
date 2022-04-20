@@ -1,0 +1,1 @@
+means the itinerary issued, under a single PNR/ Emirates itinerary number, for a Flight(s) You booked (directly, indirectly, or as part of any package) that has been ticketed.

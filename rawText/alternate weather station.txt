@@ -1,0 +1,1 @@
+It means the secondary Weather Station as defined in the Schedule, the weather data of which shall act as a substitute for the Missing Data, if any, of the primary Reference Weather Station.

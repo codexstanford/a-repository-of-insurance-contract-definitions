@@ -1,0 +1,1 @@
+A corrupting instruction from an unauthorised source that introduces itself through a computer system, network or software.

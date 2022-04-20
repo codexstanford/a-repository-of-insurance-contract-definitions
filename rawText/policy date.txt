@@ -1,0 +1,1 @@
+means the date from which Policy anniversaries, Policy years, months, and premium due dates are determined. It is specified in the Policy Schedule.

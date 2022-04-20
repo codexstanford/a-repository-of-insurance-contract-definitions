@@ -1,0 +1,1 @@
+means the information we use to determine if a Life Insured is eligible for insurance. It may include medical examinations, doctors’ reports, blood and fluid tests, or any other evidence of the Life Insured’s health, lifestyle, or financial circumstances.

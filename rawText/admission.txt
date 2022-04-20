@@ -1,0 +1,3 @@
+means Your admission in a Hospital as an inpatient for the purpose of medical treatment of an Injury and/or Illness.
+---
+means Your admission in a Hospital as an in-patient for the purpose of medical treatment of an Injury and/ or Illness.

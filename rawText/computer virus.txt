@@ -1,0 +1,7 @@
+A corrupting instruction that propagates itself via a computer system or network.
+---
+a set of corrupting, harmful or otherwise unauthorised instructions or code, including a set of maliciously introduced unauthorised instructions or code, programmatic or otherwise, which propagate themselves through a computer system or network of whatsoever nature. This includes, but is not limited to, ‘Trojan horses’, ‘Worms’ and ‘Time or logic bombs’.
+---
+a set of corrupting, harmful or otherwise unauthorised instructions or code, including a set of maliciously introduced unauthorised instructions or code, programmatic or otherwise, which propagate themselves through a computer system or network of whatsoever nature. This includes, but is not limited to, ‘Trojan horses’, ‘Worms’ and ‘Time or logic bombs’.
+---
+means a set of corrupting, harmful or otherwise unauthorised instructions or code, including a set of maliciously introduced unauthorised instructions or code, programmatic or otherwise, which propagate themselves through a computer system or network of whatsoever nature. This includes but is not limited to Trojan Horses, Worms and Time or Logic Bombs.

@@ -1,0 +1,1 @@
+means a Life Insured’s Insurance Age plus the number of years from the Policy Date to the nearest Policy Anniversary. For joint policies, the Attained Age is calculated from the joint Insurance Age to the nearest Policy Anniversary

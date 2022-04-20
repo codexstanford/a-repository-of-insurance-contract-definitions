@@ -1,0 +1,5 @@
+The point at which our tradesman considers the repair costs (taking into account the parts and labour required) to be more than the value of the boiler. The value is based on its date of manufacture, type and make.
+---
+When the cost of repairing your boiler exceeds 85% of the manufacturer’s current retail price (or if this is not available, the average current retail price available through leading UK suppliers) for a boiler of the same or similar make and model to your boiler.
+---
+When the cost of repairing your boiler exceeds 85% of the manufacturer’s current retail price (or if this is not available, the average current retail price available through leading UK suppliers) for a boiler of the same or similar make and model to your boiler.

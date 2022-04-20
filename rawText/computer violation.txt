@@ -1,0 +1,1 @@
+means an intentional, unauthorized and malicious: 1. entry of Data into a Computer System; 2. change to date elements or program logic which is kept in machine readable format; or 3. introduction of instructions, programmatic or otherwise, which propagate themselves through a Computer System.

@@ -1,0 +1,1 @@
+Purchase invoice stating the make, model and IMEI or device number of the insured device or its serial number.

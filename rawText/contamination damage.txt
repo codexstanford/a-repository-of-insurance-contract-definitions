@@ -1,0 +1,5 @@
+Physical damage caused by methamphetamine that exceeds the contamination level.
+---
+loss caused by methamphetamine contamination that exceeds the contamination level.
+---
+means physical loss or damage caused by methamphetamine contamination that exceeds the contamination level.

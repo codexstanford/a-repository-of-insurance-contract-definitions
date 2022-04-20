@@ -1,0 +1,1 @@
+the amount shown in the schedule that corresponds with the specified item.

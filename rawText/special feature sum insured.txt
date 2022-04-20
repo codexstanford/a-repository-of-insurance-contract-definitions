@@ -1,0 +1,3 @@
+the sum insured amount shown in the schedule that corresponds with the special feature.
+---
+means the sum insured amount shown in the Policy Schedule that corresponds with the special feature.

@@ -1,0 +1,1 @@
+Means there is more than one Policy with different insurers covering the same object or property and loss at the same time.

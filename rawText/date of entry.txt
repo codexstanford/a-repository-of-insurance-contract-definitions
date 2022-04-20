@@ -1,0 +1,5 @@
+The date shown on the Policy Schedule on which an Insured Person was included under this Policy.
+---
+The date that insurance cover under this Policy first starts for an Insured Person.
+---
+means the date that cover first starts for an INSURED PERSON.

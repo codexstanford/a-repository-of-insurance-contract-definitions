@@ -1,0 +1,3 @@
+Medically Necessary Treatment received when You are not an Inpatient and are not receiving Day Care Treatment.
+---
+means the medical treatment taken by the Insured without getting admitted into a Hospital, including the medical treatment availed of in an emergency room of a Hospital.

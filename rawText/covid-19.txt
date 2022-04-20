@@ -1,0 +1,1 @@
+means a disease which is: (a)	 explicitly recorded by the ICD10 code U07.1, 2019-nCoV acute respiratory disease; or (b)	 described in patient records as Coronavirus disease (COVID-19); or (c) described in patient records as resulting from Severe acute respiratory syndrome coronavirus 2 (SARSCoV-2).

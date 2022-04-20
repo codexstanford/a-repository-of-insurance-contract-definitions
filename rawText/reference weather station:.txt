@@ -1,0 +1,1 @@
+It means the primary weather station as specified in the Schedule, the weather data of which will be utilised to compute the Weather Index during the Policy Period.

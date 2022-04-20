@@ -1,0 +1,11 @@
+A Medical Condition which is brief, has a definite end point and which We, on Advice or General Advice, determine can be cured by Treatment.
+---
+refers to sudden onset.
+---
+An Accident or Illness that is not Chronic and that responds quickly to Treatment and which leads to Your full recovery.
+---
+A Medical Condition of rapid onset resulting in severe pain or symptoms which is of brief duration that is likely to respond quickly to Medical Treatment.
+---
+means the sudden onset of a medical condition which is likely to respond quickly to TREATMENT.
+---
+means initial or emergency short course (not chronic) treatment phase of a sickness or injury.

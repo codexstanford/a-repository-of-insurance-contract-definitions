@@ -1,0 +1,1 @@
+It means a device installed in the insurance unit selected by Us to measure and record the weather parameters like rainfall, temperature, humidity, wind speed, solar radiation etc. This device mainly have sensors and data logger to automatically record the weather parameters and transmit the data electronically in the data providers server.

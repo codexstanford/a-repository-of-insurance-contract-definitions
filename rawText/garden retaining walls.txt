@@ -1,0 +1,1 @@
+A wall that is built for the sole function of retaining land and that is not essential for the building or positioning of your domestic buildings (because these are included in your house definition). It does not include any retaining walls that are incomplete or any retaining wall over 1.5 metres above ground that does not have any required local authority consent.

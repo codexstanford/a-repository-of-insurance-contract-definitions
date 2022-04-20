@@ -1,0 +1,7 @@
+ICU (Intensive Care Unit) Charges means the amount charged by a Hospital towards ICU expenses which shall include the expenses for ICU bed, general medical support services provided to any ICU patient including monitoring devices, critical care nursing and intensivist charges.
+---
+It means the amount charged by a hospital towards ICU expenses on a per day basis which shall include the expenses for ICU bed, general medical support services provided to any ICU patient including monitoring devices, critical care nursing and intensivist charges.
+---
+means the amount charged by a Hospital towards ICU expenses which shall include the expenses for ICU bed, general medical support services provided to any ICU patient including monitoring devices, critical care nursing and intensivist charges.
+---
+means the amount charged by a Hospital towards ICU expenses which shall include the expenses for ICU bed, general medical support services provided to any ICU patient including monitoring devices, critical care nursing and intensivist charges.

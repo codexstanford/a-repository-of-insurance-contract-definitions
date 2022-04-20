@@ -1,0 +1,7 @@
+The date on which your insurance cover first starts.
+---
+The date that the insurance cover under this Policy starts as shown as the first date in the Period of Insurance as in the Policy Details.
+---
+The date on which cover under Your policy starts as stated in the Schedule.
+---
+means the policy effective date stated in the Travel Insurance Certificate.

@@ -1,0 +1,5 @@
+Medical Treatment recommended by a Physician as being medically necessary to treat a Medical Condition or Bodily Injury where provided by a licensed physiotherapist. Physiotherapy does not include ante-natal and maternity exercises, manual therapy, sports massage or occupational therapy.
+---
+means TREATMENT recommended by a PHYSICIAN for medical reasons following an insured incident and provided by a licensed Physiotherapist.
+---
+means physical therapy prescribed by the medical practitioner/physician in the event of trauma as a result of accident covered under the policy. The policy shall cover up to a maximum of ten (10) sessions of physiotherapy/kinesiology, of no more than one hundred and fifty US dollars (USD 150) per session.

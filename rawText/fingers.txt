@@ -1,0 +1,3 @@
+means the digits of a Hand or Foot.
+---
+the digits of a hand or foot.

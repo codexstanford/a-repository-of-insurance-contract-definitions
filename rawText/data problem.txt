@@ -1,0 +1,3 @@
+means: 1. erasure, destruction, corruption, misappropriation, misinterpretation of data; 2. error in creating, amending, deleting or using; or 3. inability to receive, transmit or use data.
+---
+means: a. erasure, destruction, corruption, misappropriation or misinterpretation of "data"; b. error(s) in creating, amending, entering, deleting or using "data"; or c. inability to receive, transmit or use "data".

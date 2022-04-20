@@ -1,0 +1,3 @@
+means the total amount we will pay for all occurrences which happen in each 12 month period, beginning with the inception date of this policy, regardless of the number of such occurrences.
+---
+means the total we will pay for all covered occurrences combined which happen in each policy period. This limit applies regardless of the number of such occurrences or loss events, or insureds or claimants.

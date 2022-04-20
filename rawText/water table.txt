@@ -1,0 +1,3 @@
+The top level of underground water where the soil is in a permanent state of saturation. The table may rise or fall depending on the level of precipitation that infiltrates from upper layers of soil (unsaturated soil).
+---
+means the top level of underground water where the soil is in a permanent state of saturation.

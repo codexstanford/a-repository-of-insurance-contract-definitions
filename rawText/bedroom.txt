@@ -1,0 +1,7 @@
+A room used as or originally built to be a bedroom, even if it is now used for another purpose.
+---
+A room used as a Bedroom, or a room originally built to be a Bedroom even if currently used for another purpose.
+---
+A room designed or subsequently converted for sleeping in even if used for other purposes.
+---
+A room used as or originally built to be a bedroom, even if it is now used for something else.

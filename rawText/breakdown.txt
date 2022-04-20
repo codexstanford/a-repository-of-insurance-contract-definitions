@@ -1,0 +1,3 @@
+means a Car failure which has caused the Car to be immobilised or become unroadworthy or unsafe to drive in transit, due to mechanical or electrical fault. This will include a flat tyre, flat or faulty battery, a Car that has run out of fuel, or keys that have been locked in the Car or lost.
+---
+This refer to an event where the Specified Vehicle is immobilized by the reason of mechanical or electrical failure, punctured type including but not limited to the Specified Vehicle is out of petrol or the windscreen is shattered.

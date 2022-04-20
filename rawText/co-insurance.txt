@@ -1,0 +1,7 @@
+The percentage of the total value of the incurred expenses for which the Policyholder/Insured Person is responsible.
+---
+The percentage You must pay in respect of any Covered Charges, as detailed in the Policy Wording or as shown in the Benefit Schedule. In all instances any Excess applicable must be satisfied before the Co-insurance becomes effective.
+---
+The proportion of Eligible Costs which You are responsible for bearing.
+---
+Your portion of the cost of insured veterinary treatment for your pet before any deductible is applied. Your pet’s coinsurance amount is shown as “Your Share” on the pet schedule of the declarations page.
