@@ -1,39 +1,34 @@
-# A repository of Insurance contract definitions
+# A repository of insurance contract definitions
 
 Insurance contracts and policies often contain a significant number of definitions.
 
-This repository contain over 6000 annotated definitions from over 200 contracts. 
+This repository contains over 6000 annotated definitions from over 200 contracts. 
 
 ## Web UI
 
-A web UI to explore the dataset is provided as the dictionary.html file. Just open it with a web browser after downloading it. Alternatively an online version is available at this address : To Be added
+A web UI to explore the dataset is provided in `dictionary.html`. Just open it with a web browser after downloading it. Alternatively an online version is available at this address : To Be added
 
 ![webInterface](https://user-images.githubusercontent.com/208554/164327779-0941685d-aea7-4bbb-9c21-4b9d01d7fe7f.png)
 
 ## XLSX
 
-An XLSX version (that can be loaded with panda or excel) of the dataset is available in the a-list-of-insurance-contract-definitions.xlsx file.
+An XLSX version (which can be loaded with pandas or excel) of the dataset is available in `a-list-of-insurance-contract-definitions.xlsx`.
 
-The XLSX file contain the following columns :
+The XLSX file contains the following columns:
 
-- **term** : The term defined
-- **lob** : The insurance Line of - Business the contract the definition is from belong to
-- **country** : The country the contract the definition belong to come from
-- **policyId** : The id of the contract the definit
-ion came from (useful to consolidate other definitons from a policy)
-- **defition** : The actual text of the definition
+- **term**: The term defined
+- **lob**: The insurance Line Of Business corresponding to the contract that contains the definition
+- **country**: The country of origin of the contract containing the definition
+- **policyID**: The ID of the contract containing the definition (useful to consolidate other definitions from a policy)
+- **definition**: The actual text of the definition
 
 ## Raw Text
 
-The raw text of the definition is available in 2 way :
+The raw text of the definitions is available in 2 places:
 
-- A directory 'rawText' containing a file per defined terms with all definition of this term separate by '---'.
-- A file : raw.txt containing all the definition separate by '---'. The first line of each definition is the defined Term.
+- The directory `rawText` contains one file per defined term. Each file contains all definitions for that term, separated by '---'.
+- The file `raw.txt` contains all definitions, separated by '---'. The first line of each definition is the defined term.
 
 ## JSON
 
-An Json file containing the data is available (data.json)
-
-
-
-
+`data.json` contains the raw data.
